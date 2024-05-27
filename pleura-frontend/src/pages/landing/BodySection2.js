@@ -15,6 +15,7 @@ function BodySection2() {
       <br/>
       Image segmentation in medical imaging means dividing an image into parts to identify structures like organs or abnormalities, aiding analysis and diagnosis
 
+  
       </div>
 
         <div className="Footerlogo">

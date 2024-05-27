@@ -1,0 +1,6 @@
+**/__pycache__/*
+alus-venv/*
+uploads/*
+static/*
+summarized/*
+.venv/*

@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div>
       <div className="nav-body">
-        <div className="title">ALUS</div>
+        <div className="title">PLEURA GUARD</div>
         <div className="nav-comp">
           <div className="nav-item">
             <Link to="/">

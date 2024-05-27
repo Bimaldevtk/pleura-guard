@@ -5,7 +5,7 @@ function StageHighlighter(props) {
   return (
     <div className="top-section">
       <div>
-        <div className="alus-title">ALUS</div>
+        <div className="alus-title">PLEURA GUARD</div>
       </div>
       <div className="stage-container">
         <div className="stage-item">
